@@ -4,6 +4,6 @@ slug  : the-interrogation
 seal  : 71bc8a9e9fdc57839452c4bd316c545da4a4c076840fbcedf26e0c1839519ab3
 prev  : eecde4faafd51ab69bc2e65b741f0c6c14e6a46f2a23c34f2a72fa6748b55aca
 link  : d86d7cfc7501fc2e2168a6a7e637d04ea61b866ab8b16e975f3a876a14a31be7
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
